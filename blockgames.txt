@@ -19,3 +19,5 @@ ff02::3 ip6-allhosts
 
 
 0.0.0.0 crazygames.com
+0.0.0.0 youtube.com
+0.0.0.0 tsn.com
